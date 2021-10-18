@@ -1,7 +1,7 @@
 ### Hey fellas! 👋
 
 
-- 🔭 I’m a fulltime javascript developer.
+- 🔭 I’m a Javascript developer.
 - 🌱 I’m currently learning and working in React, Node, Nextjs.
 - 👯 I like to work on colloboration projects. 
 
